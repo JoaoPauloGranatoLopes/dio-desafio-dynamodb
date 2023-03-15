@@ -1,7 +1,7 @@
 # aws-dynamodb-dio
 
 Este repositório foi clonado de dio-live-dynamodb para cumprimento da etapa "Boas práticas com DynamoDB" no âmbito do 
-Bootcamp Banco PAN Java Developer para que fossem icluídas evoluções e melhorias para efeito de aprendizado e fixação 
+Bootcamp Banco PAN Java Developer como desafio de incluir evoluções e melhorias para efeito de aprendizado e fixação 
 dos conteúdos passados pelo instrutor.
 
 Inclusões feitas para praticar:
