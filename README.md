@@ -5,9 +5,10 @@ Bootcamp Banco PAN Java Developer para que fossem icluídas evoluções e melhor
 dos conteúdos passados pelo instrutor.
 
 Inclusões feitas para praticar:
--- Inserir um item com aws dynamodb put-item
--- Inserir múltiplos itens com aws dynamodb batch-write-item
--- Pesquisar item por artista
+
+.Inserir um item com aws dynamodb put-item
+.Inserir múltiplos itens com aws dynamodb batch-write-item
+.Pesquisar item por artista
 
 
 ### Serviço utilizado
