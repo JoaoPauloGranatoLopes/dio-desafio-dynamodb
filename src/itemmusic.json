@@ -1,0 +1,12 @@
+{
+  "Artist": {"S": "Iron Maiden"},
+  "SongTitle": {"S": "Chains of Misery"},
+  "AlbumTitle": {"S": "Fear of the Dark"},
+  "SongYear": {"S": "1992"}
+}
+{
+  "Artist": {"S": "The Beatles"},
+  "SongTitle": {"S": "Let it Be"},
+  "AlbumTitle": {"S": "Let it Be"},
+  "SongYear": {"S": "1970"}
+}
